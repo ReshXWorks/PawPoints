@@ -33,7 +33,7 @@ You can add additional q&a's in .txt files if you want(but add them in alternati
 - Python 3.x 
 - No external libraries required
 
-## WHat did we learn from this?
+## What did we learn from this?
 - File handling: Reading questions from external .txt files
 - Functions: Separating check_guess() and scores()
 - Input validation: Handling invalid difficulty selections and non-integer inputs
